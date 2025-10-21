@@ -1,7 +1,5 @@
 # Sonara_Rock_Vs_Mine_Prediction_Using_ML
 
-# Sonar Rock vs. Mine Prediction Model  sonar-rock-vs-mine-prediction
-
 This is a machine learning project that builds a supervised learning model to classify sonar signals as either a rock or a mine.
 
 ## 🎯 About The Project
